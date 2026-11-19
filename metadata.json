@@ -1,0 +1,6 @@
+{
+  "name": "Smart Rent Car Catania",
+  "description": "Noleggio auto a Catania, semplice e senza sorprese. Prenotazione online trasparente, flotta verificata e pannello gestionale per Smart Rent Car Autonoleggio Catania.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
